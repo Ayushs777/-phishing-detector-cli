@@ -1,0 +1,13 @@
+# Safe URLs
+https://www.google.com
+https://github.com
+https://www.wikipedia.org
+
+# Suspicious URLs
+http://facebook-login-secure.xyz
+http://paypal-update-account.gq
+http://secure-banking-login.top
+
+# Dangerous URLs
+http://192.168.1.100/login.php
+http://update-your-password-now.xyz
